@@ -27,7 +27,7 @@
 
 
 ### Day 3: April 1, 2020 
-**Today's Progress**: Working on 
+**Today's Progress**: Working on Containers, Modernizing Applications and 12 Factor Development
 
 **Thoughts** Its all about core Kubernetes concepts and use them to deploy and scale applications in practical tutorials. 
 
