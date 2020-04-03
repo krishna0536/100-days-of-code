@@ -39,6 +39,16 @@
 
 
 ### Day 4: April 2, 2020 
+**Today's Progress**: Working on Deployment Strategies
+
+**Thoughts** Its all about core Kubernetes concepts and use them to deploy and scale applications in practical tutorials. 
+
+**Link(s) to work**
+1. [How To Deploy a PHP Application with Kubernetes on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-php-application-with-kubernetes-on-ubuntu-18-04)
+2. [How To Automate Deployments to DigitalOcean Kubernetes with CircleCI](https://www.digitalocean.com/community/tutorials/how-to-automate-deployments-to-digitalocean-kubernetes-with-circleci)
+3. [How To Set Up a CD Pipeline with Spinnaker on DigitalOcean Kubernetes](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-cd-pipeline-with-spinnaker-on-digitalocean-kubernetes)
+
+### Day 5: April 3, 2020 
 **Today's Progress**: How To Set Up an Elasticsearch, Fluentd and Kibana (EFK) Logging Stack on Kubernetes
 
 **Thoughts** Its all about setting up centralized logging solution is the Elasticsearch, Fluentd, and Kibana (EFK) stack.
@@ -46,6 +56,6 @@
 **Link(s) to work**
 1. [How To Set Up an Elasticsearch, Fluentd and Kibana (EFK) Logging Stack on Kubernetes](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-elasticsearch-fluentd-and-kibana-efk-logging-stack-on-kubernetes)
 
-    a. Creating the Elasticsearch StatefulSet
-    b. Creating the Kibana Deployment and Service
-    c. Creating the Fluentd DaemonSet
+* Creating the Elasticsearch StatefulSet
+* Creating the Kibana Deployment and Service
+* Creating the Fluentd DaemonSet
